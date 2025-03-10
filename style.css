@@ -1,0 +1,306 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    background-color: white;
+    font-family: "Poppins", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.4em;
+}
+
+
+h1 {
+    font-family: "Poppins", serif;
+    font-weight: 900;
+    font-style: normal;
+    color: #FF78C8;
+    line-height: 1em;
+    font-size: 3em;
+    padding-bottom: 8px;
+}
+
+h2 {
+    font-family: "Poppins", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 2em;
+}
+
+h3 {
+    font-family: "Poppins", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 2em;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+.header p {
+    font-family: "Poppins", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 1.3em;
+}
+
+.header {
+    background-color: #3200a0;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 48px;
+
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 54px;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 16px 16px;
+}
+
+nav ul {
+    display: flex;
+    gap: 16px;
+    padding: 0;
+}
+
+nav ul li {
+    list-style: none;
+    color: white;
+}
+
+nav ul li a {
+    color: #FFE65A;
+}
+
+
+.header-text {
+    max-width: 70%;
+}
+
+.number {
+    background-color: #FF78C8;
+    height: 96px;
+    width: 96px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 96px;
+}
+
+.number-font {
+    font-family: "Poppins", serif;
+    font-weight: 900;
+    font-style: normal;
+    color: #3200a0;
+    font-size: 36px;
+}
+
+.wrapper {
+    padding: 0 24px 100px;
+    overflow-y: scroll;
+    min-height: 100%;
+}
+
+.mobile-container {
+    display: none;
+}
+
+.container {
+    display: flex;
+    /*     background-color: #f00a64;
+ */
+    margin: 0 auto 48px;
+    border-radius: 8px;
+    border: 3px solid #f00a64;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    max-width: 800px;
+    overflow: hidden;
+}
+
+.introduction {
+    padding: 24px
+}
+
+.introduction p,
+.justification p,
+.values1 p,
+.values2 p,
+.values3 p,
+.contact p {
+    margin-bottom: 16px;
+}
+
+.introduction p:last-of-type {
+    margin-bottom: 0;
+}
+
+.image-standing,
+.image-sitting {
+    object-fit: cover;
+    border-radius: 8px 0 0 8px;
+    max-width: 50%;
+}
+
+.justification {
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+}
+
+.slogan-container {
+    display: flex;
+    align-items: center;
+    background-color: #f00a64;
+}
+
+.slogan {
+   
+    padding: 80px 36px;
+    font-family: "Poppins", serif;
+    font-weight: 900;
+    font-style: normal;
+    color: #3200a0;
+    font-size: 3em;
+    line-height: 1.4em;
+    hyphens: manual;
+    max-width: 100%;
+}
+
+.image-sitting {
+    border-radius: 0 8px 8px 0;
+}
+
+
+.values1 {
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+}
+
+.values2 {
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+}
+
+.values3 {
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+}
+
+footer a {
+    color: white;
+}
+
+footer {
+    background-color: #3200a0;
+    height: 100px;
+    color: white;
+    margin-top: -100px;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    padding: 0 48px;
+}
+
+.social-media-links {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.logo-vasemmistoliitto {
+    max-height: 54px;
+    margin-right: 24px;
+
+}
+
+@media screen and (max-width:640px) {
+    body {
+        background: pink,
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .image-standing,
+    .image-sitting {
+        display: none;
+    }
+
+    .mobile-container {
+        margin: 0 0 48px;
+        border-radius: 8px;
+        border: 3px solid #f00a64;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+        max-width: 800px;
+        max-height: 500px;
+        overflow: hidden;
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+    }
+
+    .image-mobile {
+        object-fit: cover; 
+        border-radius: 8px;
+        height: auto;
+        width: 100%;
+        transform: translateY(-20px);
+    }
+
+    .slogan-container {
+        max-width: 100%;
+    }
+    
+    .header p {
+        font-size: 1.0em;
+    }
+
+    footer {
+        justify-content: center;
+        padding: 0;
+    }
+
+    .logo-vasemmistoliitto {
+        margin-right: 8px;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .mobile-container {
+        max-height: 360px;
+    }
+
+    .image-mobile {
+        transform: translateY(-40px);
+    }
+}
