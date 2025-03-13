@@ -5,78 +5,35 @@ const translations = {
             <p>Vasemmistoliiton kuntavaaliehdokas Tampereella 2025</p>`,
         introduction: `
          <h2>Kuka olen?</h2>
-                <p>Moi, olen Linda, 40-vuotias paljasjalkainen tamperelainen. Lapsuuteni vietin Tesomalla, teini-iän
-                    Lielahdessa ja nykyisin asun Amurissa. Sukuni tulee Ruskealasta Karjalasta, ja Saloja vaikuttaa
-                    edelleen myös Nokialla.</p>
-                <p>Tällä hetkellä työskentelen energia-alalla asiakasneuvojana, ja olen opiskellut Tampereen
-                    yliopistossa kansainvälistä politiikkaa ja valtio-oppia. Tätä ennen olin töissä mm. Tampere-talossa,
-                    ja sitä ennen pitkään Stockmannilla.</p>
-                <p>Eniten innostun kulttuurista ja musiikista, viherkasveista, tietovisoista ja uuden oppimisesta.
-                    Luontaista uteliaisuuttani on hyvä toteuttaa yhdessä pienen lapseni kanssa, käydä kirjastossa tai
-                    uimahallissa, kasvattaa omia tomaatteja pihassa, askarrella ja leikkiä legoilla.</p>`,
+                <p>Moi, olen Linda, 40-vuotias paljasjalkainen tamperelainen. Lapsuuteni vietin yksinhuoltajaäitini kanssa kahdestaan Tesomalla, teini-iän Lielahdessa ja nykyisin asun Amurissa. Sukuni tulee Ruskealasta Karjalasta, ja Salon sukua vaikuttaa edelleen myös Nokialla.
+                <p>Tällä hetkellä työskentelen energia-alalla asiakasneuvojana, ja olen opiskellut Tampereen yliopistossa kansainvälistä politiikkaa, valtio-oppia ja ympäristöpolitiikkaa. Tätä ennen olin töissä mm. Tampere-talossa, ja sitä ennen pitkään Stockmannilla.</p>
+                <p>Eniten innostun kulttuurista ja musiikista, viherkasveista, tietovisoista ja uuden oppimisesta. Luontaista uteliaisuuttani toteutan yhdessä pienen lapseni kanssa; käymme kirjastossa tai uimahallissa, askartelemme ja leikimme legoilla.</p>
+                <p>Olen luonteeltani toimelias ja aikaansaava, mutta joskus suoruudestani johtuen vähän kärkäs. Pidän ongelmanratkaisusta ja tykkään tehdä työni niin hyvin kuin mahdollista. Olen avoin, ja arvostan rehellisyyttä ja suoraselkäistä vastuunkantoa.</p>`,
         justification:
             `<h2>Miksi olen ehdolla?</h2>
-                <p>Lähdin kuntavaaleihin ehdolle, sillä haluan turvata oman kotikaupunkini julkiset palvelut kuten
-                    neuvolan, päiväkodin, terveydenhuollon, koulutuksen laadun, ja saavutettavan lähiluonnon.</p>
-                <p>Eniten suututtaa epäoikeudenmukaisuus ja epäreiluus. Minulle on maksettu vuosien ajan liian pientä
-                    palkkaa (sain sen onneksi takautuvasti), olen ollut 0h-sopimuksella töissä useamman vuoden ja
-                    taloudellinen toimeentuloni on ollut hyvin epävarmaa varsinkin opiskeluaikoina. Palkalla tai
-                    eläkkeellä pitäisi voida elää. On kuitenkin elämäntilanteita, joissa meistä jokainen saattaa tarvita
-                    vaikkapa asumis- tai toimeentulotukea.</p>
-                <p>On aivan käsittämätöntä, että yhteisesti maksetuilla veroilla ei muka saa hyvää terveydenhuoltoa ja
-                    hoitoa silloin kun tarvitsee, että lapset joutuvat opiskelemaan homekouluissa aivan liian suurissa
-                    ryhmissä, perheet jonottavat ruokajonoissa ja asunnottomuus vain kasvaa. Näihin kaikkiin on
-                    mahdollista puuttua ja ennaltaehkäistä ongelmia, jos vain on poliittista tahtoa.</p>`,
+                <p>Lähdin kuntavaaleihin ehdolle, sillä haluan ensisijaisesti turvata oman kotikaupunkini julkiset palvelut kuten neuvolan, päiväkodin, terveydenhuollon, koulutuksen laadun ja saavutettavan lähiluonnon.</p>
+                <p>Olen turhautunut, kun tasa-arvo ei toteudu, sillä kaikilla meistä ei ole varaa yksityiseen vakuutukseen tai työterveyttä, jonka puoleen kääntyä. Vanhuksilta viedään kasvokkain tapahtuva päivätoiminta ja lapsilta leikataan aamu- ja iltapäiväkerhot. Harmittaa kun talviauraus tehdään aina autoilijoiden ehdolla, eikä pyörätuolilla, rollaattorilla tai vaunuilla pääse lumivallien vuoksi suojateiden yli. Parkkipaikkoja voisi käyttää uusille asuintaloille, tai lisätä luonnon monimuotoisuutta.</p>
+                <p>On aivan käsittämätöntä, että yhteisesti maksetuilla veroilla ei saa hyvää terveydenhuoltoa ja hoitoa silloin kun tarvitsee, että lapset joutuvat opiskelemaan homekouluissa aivan liian suurissa ryhmissä, perheet jonottavat ruokajonoissa ja asunnottomuus vain kasvaa. Näihin kaikkiin on mahdollista puuttua ja ennaltaehkäistä ongelmia, jos vain on poliittista tahtoa.</p>
+                <p>Palkalla tai eläkkeellä pitäisi voida Suomessa elää. On kuitenkin elämäntilanteita, joissa meistä jokainen saattaa tarvita vaikkapa asumis- tai toimeentulotukea. On täysin väärin, että työttömyydestä rankaistaan, ja leikataan niiltä, joilla on jo valmiiksi vähiten.</p>
+                <p>Olen huolissani yhteiskuntarauhasta ja erityisesti nuorten osallistumisesta demokratiaan. Se ei ole kenenkään etu, jos ihmiset luovuttavat tai vaipuvat epätoivoon. Verovarojamme tulee kohdentaa terveydenhuoltoon, pedagogisesti laadukkaaseen varhaiskasvatukseen, kirjastoihin, kulttuuritarjontaan ja harrastusmahdollisuuksiin eli julkisiin palveluihin, jotka ovat suomalaisen yhteiskunnan kivijalka.</p>`,
         slogan:
-            `ARVONI OVAT TOIVO, SIVISTYS JA ROHKEUS`,
+            `ARVONI OVAT TOIVO, ROHKEUS JA SIVISTYS`,
         values1: `<h2>Toivo</h2>
-
-                <p>Vaikka sota, vallanhimo ja fasismi vyöryvät joka tuutista päälle, minkä seurauksena tekisi mieli
-                    vetää peitto korviin ja piiloutua, niin hämmennyksen ja lamaannuksen sijaan nyt jos koskaan pitää
-                    yrittää toimia.</p>
-                <p>Viisivuotiaani mielestä nukkuminen öisin on turhaa, koska jokainen uusi päivä on niin ihmeellinen ja
-                    innostava. Muistan kaukaisesti tuon tunteen ja toivoisin, että voisimme kaikki ennemmin odottaa
-                    päivän seikkailuja ja mahdollisuuksia avoimin ja turvallisin mielin kuin pelätä, mitä hirveää tänään
-                    tapahtuu.</p>
-                <p>Toivo on voimavara, jonka avulla uskaltaa unelmoida ja kuvitella parempaa tulevaisuutta. Olen ainakin
-                    sen verran velkaa jälkikasvulleni, että yritän esimerkin avulla osoittaa keinoja vaikuttaa,
-                    edustuksellisen demokratian rinnalla toki muillakin tavoin.</p>
-                <p>Haluan, etteivät lapset ja nuoret menetä kipinäänsä vaan kokevat, että heillä on väliä, että heitä
-                    kuunnellaan ja että maailma kuuluu heille. Että osaamme hoitaa yhteiskunnallisia asioita yhdessä.
-                    Että meillä on tulevaisuus, ja että raha ei ole kaiken mittari.</p>`,
-        values2: `<h2>Sivistys</h2>
-
-                <p>Sivistys on enemmän kuin koulutusta. Se on huolenpitoa niistä, jotka eivät välttämättä osaa tai pysty
-                    pitämään huolta itsestään. Lapset, vanhukset, vammaiset, vähemmistöt – sivistys on sitä, että
-                    pidämme heikommassa asemassa olevien puolia ja osoitamme tukea niille, jotka sitä tarvitsevat.</p>
-                <p>Koskaan ei tiedä, jääkö itse työttömäksi, invalidisoituuko tai joutuuko laitokseen, joten empatiakyky
-                    ja solidaarisuus ovat vastavuoroisen tärkeitä. Se, että kannustamme toisiamme ja saamme apua
-                    läheisille.</p>
-                <p>Omia verovarojani pitäisi näin ollen kohdentaa nimenomaan laadukkaaseen varhaiskasvatukseen,
-                    kirjastoihin, kulttuuriin, opetukseen, terveydenhuoltoon ja kaikkiin niihin julkisiin palveluihin,
-                    jotka ovat suomalaisen yhteiskunnan kivijalka.</p>
-                <p>Toivon, että olemme jatkossakin kiinnostava ja laadukasta elämää tarjoava kaupunki ja kunta.
-                    Tampereesta tekee omaleimaisen se, että täällä voi mennä oopperasta punkkikeikalle ja korispelistä
-                    yleiseen saunaan.</p>
-                <p>Haluan, että meillä on jatkossakin turvallinen ja kaikille saavutettava kunta, jossa voi elää hyvää
-                    elämää ilman pelkoa. Näin ollen esimerkiksi turvakotipaikkojen määrää pitää lisätä ja kunnan tulee
-                    tarjota matalan kynnyksen palveluita lähisuhdeväkivaltaa kokeneille, sekä keskittyä
-                    ennaltaehkäisevään työhön väkivaltaan puuttumiseksi.</p>`,
-        values3: `<h2>Rohkeus</h2>
-                <p>Tämän hetken ilmapiiri tuntuu olevan epävarma ja jopa taantumuksellinen. Rohkeudella ja
-                    päättäväisyydellä tehdään meitä kaikkia kuntalaisia koskettavia elämänlaatuun vaikuttavia hyviä
-                    päätöksiä. Näitä ovat esimerkiksi esteettömyyden ja ympäristön aiheuttaman aistiärsykekuormituksen
-                    huomioiminen kaupunkisuunnittelussa, feministinen auraus talvikunnossapidossa (kevyt liikenne ja
-                    pyörätiet) sekä gynekologiset palvelut terveysasemille, ja maksuton ehkäisy alle 25-vuotiaille.</p>
-                <p>Kaipaan uskaltamista ja raikkaita uusia ideoita kaupunkikuvaan, kuten vaikkapa kokonaan uutta
-                    siirtolapuutarha-aluetta tai viljelypalstoja halukkaille, japanilaista puutarhaa, talvipuutarhaa tai
-                    kirsikkapuistoa. Lasten leikkipuistoissa tulisi olla kaikissa varjoa tuovia puita, ja huoltaminen
-                    ajan tasalla. Onkiniemeen mahtuisi aivan varmasti uusi kansankypylä, ja lajikirjosta voidaan
-                    huolehtia mm. bussipysäkkien turvekatoilla ja hulevesistä kosteikoilla.</p>
-                <p>Haluan, että kulttuurintekijöillä ja taiteilijoilla on tilaa olla luovia, että lapset ja nuoret
-                    saavat harrastaa perheen tulotasosta riippumatta ja että asunnottomuutta ja ruokajonojen pituutta
-                    yritetään hillitä. Ja aika on jo omalle muistomerkille, kadulle tai aukiolle edesmenneelle
-                    pioneeriartistille Kikalle! </p>`,
+                <p>Viisivuotiaan lapseni mielestä nukkuminen öisin on turhaa, koska jokainen uusi päivä on niin ihmeellinen ja innostava. Muistan tuon tunteen ja toivoisin, että voisimme kaikki ennemmin odottaa päivän seikkailuja avoimin ja turvallisin mielin kuin pelätä, mitähän hirveää tänään tapahtuu.</p>
+                <p>Uutisista luemme, kuinka sota, vallanhimo ja fasismi vyöryvät päälle, joten tekee mieli vetää peitto korviin ja piiloutua. Toivo on kuitenkin se voimavara, jonka avulla uskaltaa unelmoida ja kuvitella parempaa tulevaisuutta. Olen ainakin sen velkaa jälkikasvulleni ja tuleville sukupolville, että teen voitavani vaikuttaakseni yhteiskuntaan.</p>
+                <p>Haluan, etteivät lapset ja nuoret menetä kipinäänsä vaan kokevat, että heillä on väliä, että heitä kuunnellaan ja että maailma kuuluu heille. Että me osaamme hoitaa yhteiskunnallisia asioita yhdessä. Että meillä kaikilla on tulevaisuus, jossa raha ei ole kaiken mittari. Unelmointi ja idealistiset ideat eivät ole pelkkää haihattelua vaan vaihtoehto, jos me työskentelemme tavoitteiden saavuttamisen eteen realistisesti.</p>
+                <p>Lamaantumisen sijaan nyt jos koskaan on aika toimia, ja siksi olen ehdolla.</p>`,
+        values2: `<h2>Rohkeus</h2>
+                <p>Rohkeudella ja päättäväisyydellä tehdään kaikkien kaupunkilaisten elämänlaatuun vaikuttavia hyviä päätöksiä. Näitä ovat esimerkiksi esteettömyyden ja ympäristön aiheuttaman aistiärsykekuormituksen huomioiminen kaupunkisuunnittelussa, toimiva talvikunnossapito myös kevyelle liikenteelle, gynekologiset palvelut terveysasemille sekä maksuton ehkäisy alle 25-vuotiaille.</p>
+                <p>Kaipaan uskaltamista ja raikkaita uusia ideoita kaupunkikuvaan, kuten vaikkapa kokonaan uutta maltillisissa hinnoissa olevaa siirtolapuutarha-aluetta, esteettömiä viljelypalstoja tai uutta kansankylpylää. Kaikissa leikkipuistoissa tulisi olla varjoa tuovia puita. Lajikirjosta voidaan huolehtia mm. bussipysäkkien turvekatoilla ja pörriäisniityillä, ja kaupungin tulvavesiä voidaan hillitä asianmukaisesti rakennetuilla hulevesikosteikoilla.</p>
+                <p>Haluan, että kulttuurintekijöillä ja taiteilijoilla on edullisia työtiloja olla luovia ja että lapset ja nuoret saavat harrastaa perheen tulotasosta riippumatta. Manserock-cityssä on jo aika suunnittelukilpailulle edesmenneen pioneeriartistin Kikan muistomerkistä!</p>
+                <p>Tampere on kehittynyt valtavasti siitä, kun itse olin lapsi ja odotin kahdesti tunnissa menevää bussia viemään minut musiikkiluokalle Tesomalta Pispalaan. Nyt meillä on joukkoliikenteessä laajentuva ratikka ja lähijuna. Julkinen liikenne on paitsi ekologinen ja vapauttaa kaupunkitilaa muuhun käyttöön, hillitsee se myös pienhiukkaspäästöjä ja näin ollen parantaa ilmanlaatua.</p>
+                <p>Toivon että olemme kiinnostava ja laadukasta elämää tarjoava kaupunki kaikille, ei vain varakkaille ihmisille. Tampereesta tekee omaleimaisen se, että täällä voi mennä oopperasta punkkikeikalle tai koripallopelistä mustikkametsään. Meistä jokaisen tulisi saada elää omannäköistä elämää ja huoletonta arkea. Tämä onnistuu, kun pidämme toistemme puolia ja mietimme ylisukupolvisesti tulevaisuuteen kurkottaen.</p>`,
+        values3: `<h2>Sivistys</h2>
+                <p>Sivistys on enemmän kuin koulutusta. Se on huolenpitoa niistä, jotka eivät välttämättä osaa tai pysty pitämään huolta itsestään. Lapset, vanhukset, vammaiset, vähemmistöt – sivistys on sitä, että pidämme heikommassa asemassa olevien puolia ja osoitamme tukea niille, jotka sitä tarvitsevat.</p>
+                <p>Verovaroja pitäisi kohdentaa laadukkaaseen varhaiskasvatukseen, kirjastoihin, kulttuuriin, opetukseen, terveydenhuoltoon ja kaikkiin niihin julkisiin palveluihin, jotka ovat suomalaisen yhteiskunnan kivijalka. Koskaan ei tiedä, jääkö itse työttömäksi, kohtaako terveyshuolia, invalidisoituuko tai joutuuko laitokseen, joten empatiakyky ja solidaarisuus ovat vastavuoroisen tärkeitä.</p>
+                <p>Haluan, että meillä on jatkossakin turvallinen ja kaikille saavutettava kaupunki, jossa voi elää hyvää elämää ilman pelkoa. Näin ollen esimerkiksi turvakotipaikkojen määrää pitää lisätä, lähisuhdeväkivaltaa kokeneille tulee tarjota matalan kynnyksen palveluita ja väkivaltaan puuttumiseksi tulee keskittyä ennaltaehkäisevään työhön.</p>
+                <p>Epätoivo ajaa ihmiset epätoivoisiin tekoihin, joten yhteiskuntarauhankin vuoksi on puututtava lapsiperheköyhyyteen ja nuorten mielenterveysongelmiin, rahoitettava ennaltaehkäisevää päihdetyötä ja mahdollistettava riittävä toimeentulo yhdenvertaisesti.</p>`,
         contact: `<h2>Ota yhteyttä</h2>
                 <p>Haluatko vaikuttaa jollakin tavalla konkreettisesti?</p>
                 <p>Nyt on tilaisuutesi auttaa ja lahjoittaa kuntavaalikampanjaani, ihan pienkin summa riittää. Rahat
@@ -128,7 +85,7 @@ const translations = {
         snippy at times due to my frankness. I like solving problems and
         performing the best I can at work. I am an open person and I
         appreciate honesty and stand-up responsibility.</p>`,
-        slogan: `MY VALUES ARE HOPE, CIVILIZA&shy;TION AND COURAGE`,
+        slogan: `MY VALUES ARE HOPE, COURAGE AND CIVILIZA&shy;TION`,
         values1: `<h2>Hope</h2>
         <p>According to my 5-year-old, it's useless to sleep at night because
         every new day is so amazing and inspiring. I, too, remember the
@@ -149,30 +106,7 @@ const translations = {
         option if we work towards achieving our goals in a realistic manner.</p>
         <p>The time to take action and not paralyze is now or never, and that is
         why I'm standing for election.</p>`,
-        values2: `<h2>Civilization</h2>
-        <p>Civilization is more than education. It is caring for those who may
-        not be able to take care of themselves. Children, senior citizens,
-        people with disabilities, minorities – civilization means that we stand
-        up for those who are vulnerable and show our support for those
-        who are in need of it.</p>
-        <p>Taxpayers' money should be targeted to quality early childhood
-        education and care, libraries, culture, education, healthcare and all
-        the public services that are the foundation of the Finnish society.
-        Anyone can lose their job, face health issues, become disabled or
-        be placed in institutional care, so empathy and solidarity are
-        mutually important.</p>
-        <p>In the future, as we have so far, I want all of us to be able to lead a
-        good, fearless life in a city that is safe and accessible for everyone.
-        Ergo, shelter home capacity needs to be increased and victims of
-        domestic and immediate partner violence should be offered low-
-        threshold services. In addition, we need to focus on preventive
-        measures to stop the violence.</p>
-        <p>Despair can push people into taking desperate actions, and in order
-        to maintain social harmony, we need to tackle poverty in families
-        with children and mental health issues in young people, fund
-        preventive substance abuse work and enable adequate livelihood
-        for all.</p>`,
-        values3: `<h2>Courage</h2>
+        values2: `<h2>Courage</h2>
         <p>Courage and determination enable making good decisions that
         affect all residents' quality of life, such as paying attention to
         accessibility and overstimulation from the environment in urban
@@ -204,6 +138,29 @@ const translations = {
         our liking and have a carefree everyday life. This will be possible if
         we stand up for each other and reach for the future with an
         intergenerational take.</p>`,
+        values3: `<h2>Civilization</h2>
+        <p>Civilization is more than education. It is caring for those who may
+        not be able to take care of themselves. Children, senior citizens,
+        people with disabilities, minorities – civilization means that we stand
+        up for those who are vulnerable and show our support for those
+        who are in need of it.</p>
+        <p>Taxpayers' money should be targeted to quality early childhood
+        education and care, libraries, culture, education, healthcare and all
+        the public services that are the foundation of the Finnish society.
+        Anyone can lose their job, face health issues, become disabled or
+        be placed in institutional care, so empathy and solidarity are
+        mutually important.</p>
+        <p>In the future, as we have so far, I want all of us to be able to lead a
+        good, fearless life in a city that is safe and accessible for everyone.
+        Ergo, shelter home capacity needs to be increased and victims of
+        domestic and immediate partner violence should be offered low-
+        threshold services. In addition, we need to focus on preventive
+        measures to stop the violence.</p>
+        <p>Despair can push people into taking desperate actions, and in order
+        to maintain social harmony, we need to tackle poverty in families
+        with children and mental health issues in young people, fund
+        preventive substance abuse work and enable adequate livelihood
+        for all.</p>`,
         contact: `<h2>Contact</h2>
         <p>Do you want to have a concrete impact?</p>
         <p>Now is your chance to help and donate to my municipal elections campaign, even the smallest amounts helps! The donations are used for printing and marketing costs.</p>
