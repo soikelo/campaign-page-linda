@@ -36,7 +36,7 @@ const translations = {
                 <p>Epätoivo ajaa ihmiset epätoivoisiin tekoihin, joten yhteiskuntarauhankin vuoksi on puututtava lapsiperheköyhyyteen ja nuorten mielenterveysongelmiin, rahoitettava ennaltaehkäisevää päihdetyötä ja mahdollistettava riittävä toimeentulo yhdenvertaisesti.</p>`,
         contact: `<h2>Ota yhteyttä</h2>
                 <p>Haluatko vaikuttaa jollakin tavalla konkreettisesti?</p>
-                <p>Nyt on tilaisuutesi auttaa ja lahjoittaa kuntavaalikampanjaani, ihan pienkin summa riittää. Rahat
+                <p>Nyt on tilaisuutesi auttaa ja lahjoittaa kuntavaalikampanjaani, ihan pienikin summa riittää. Rahat
                     menevät painokuluihin ja markkinointiin.</p>
                 <p>Vaalitili: FI62 5730 0821 5505 28</p>
                 <p>Mobilepay lipas: 4182SN</p>
