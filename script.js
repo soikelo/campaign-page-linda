@@ -5,7 +5,7 @@ const translations = {
             <p>Vasemmistoliiton kuntavaaliehdokas Tampereella 2025</p>`,
         introduction: `
          <h2>Kuka olen?</h2>
-                <p>Moi, olen Linda, 40-vuotias paljasjalkainen tamperelainen. Lapsuuteni vietin yksinhuoltajaäitini kanssa kahdestaan Tesomalla, teini-iän Lielahdessa ja nykyisin asun Amurissa. Sukuni tulee Ruskealasta Karjalasta, ja Salon sukua vaikuttaa edelleen myös Nokialla.
+                <p>Moi, olen Linda, 41-vuotias paljasjalkainen tamperelainen. Lapsuuteni vietin yksinhuoltajaäitini kanssa kahdestaan Tesomalla, teini-iän Lielahdessa ja nykyisin asun Amurissa. Sukuni tulee Ruskealasta Karjalasta, ja Salon sukua vaikuttaa edelleen myös Nokialla.
                 <p>Tällä hetkellä työskentelen energia-alalla asiakasneuvojana, ja olen opiskellut Tampereen yliopistossa kansainvälistä politiikkaa, valtio-oppia ja ympäristöpolitiikkaa. Tätä ennen olin töissä mm. Tampere-talossa, ja sitä ennen pitkään Stockmannilla.</p>
                 <p>Eniten innostun kulttuurista ja musiikista, viherkasveista, tietovisoista ja uuden oppimisesta. Luontaista uteliaisuuttani toteutan yhdessä pienen lapseni kanssa; käymme kirjastossa tai uimahallissa, askartelemme ja leikimme legoilla.</p>
                 <p>Olen luonteeltani toimelias ja aikaansaava, mutta joskus suoruudestani johtuen vähän kärkäs. Pidän ongelmanratkaisusta ja tykkään tehdä työni niin hyvin kuin mahdollista. Olen avoin, ja arvostan rehellisyyttä ja suoraselkäistä vastuunkantoa.</p>`,
@@ -34,20 +34,12 @@ const translations = {
                 <p>Verovaroja pitäisi kohdentaa laadukkaaseen varhaiskasvatukseen, kirjastoihin, kulttuuriin, opetukseen, terveydenhuoltoon ja kaikkiin niihin julkisiin palveluihin, jotka ovat suomalaisen yhteiskunnan kivijalka. Koskaan ei tiedä, jääkö itse työttömäksi, kohtaako terveyshuolia, invalidisoituuko tai joutuuko laitokseen, joten empatiakyky ja solidaarisuus ovat vastavuoroisen tärkeitä.</p>
                 <p>Haluan, että meillä on jatkossakin turvallinen ja kaikille saavutettava kaupunki, jossa voi elää hyvää elämää ilman pelkoa. Näin ollen esimerkiksi turvakotipaikkojen määrää pitää lisätä, lähisuhdeväkivaltaa kokeneille tulee tarjota matalan kynnyksen palveluita ja väkivaltaan puuttumiseksi tulee keskittyä ennaltaehkäisevään työhön.</p>
                 <p>Epätoivo ajaa ihmiset epätoivoisiin tekoihin, joten yhteiskuntarauhankin vuoksi on puututtava lapsiperheköyhyyteen ja nuorten mielenterveysongelmiin, rahoitettava ennaltaehkäisevää päihdetyötä ja mahdollistettava riittävä toimeentulo yhdenvertaisesti.</p>`,
-        contact: `<h2>Ota yhteyttä</h2>
-                <p>Haluatko vaikuttaa jollakin tavalla konkreettisesti?</p>
-                <p>Nyt on tilaisuutesi auttaa ja lahjoittaa kuntavaalikampanjaani, ihan pienikin summa riittää. Rahat
-                    menevät painokuluihin ja markkinointiin.</p>
-                <p>Vaalitili: FI62 5730 0821 5505 28</p>
-                <p>Mobilepay lipas: 4182SN</p>
-                <p>Mikäli haluat kysyä jotain tai tukea kampanjaani muulla tavoin, voit ottaa yhteyttä sähköpostitse: linda.m.salo(at)gmail.com`,
-
     },
     en: {
         headertext: `<h1>LINDA SALO</h1>
             <p>Left Alliance candidate for municipal elections in Tampere 2025</p>`,
         introduction: `<h2>Who am I?</h2>
-        <p>I'm Linda, 40 years old and born and raised in Tampere. I spent my
+        <p>I'm Linda, 41 years old and born and raised in Tampere. I spent my
         childhood with my single mother in Tesoma and my teenage years
         in Lielahti, and nowadays I live in Amuri. My roots are in Ruskeala,
         Karjala, and there are still members of the Salo family living in
@@ -161,12 +153,6 @@ const translations = {
         with children and mental health issues in young people, fund
         preventive substance abuse work and enable adequate livelihood
         for all.</p>`,
-        contact: `<h2>Contact</h2>
-        <p>Do you want to have a concrete impact?</p>
-        <p>Now is your chance to help and donate to my municipal elections campaign, even the smallest amounts helps! The donations are used for printing and marketing costs.</p>
-        <p>Bank account: FI62 5730 0821 5505 28</p>
-        <p>Mobilepay box: 4182SN</p>
-        <p>If you want to ask something or support my campaign in other ways, you can contact me via email: linda.m.salo(at)gmail.com</p>`,
     }
 }
 
