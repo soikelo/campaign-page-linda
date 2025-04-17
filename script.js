@@ -6,12 +6,12 @@ const translations = {
         thankyou:
         `<h2>Kiitos!</h2>
                 <p>Kiitos kaikki äänestäneet luottamuksesta, sain 157 ääntä! Se on mielestäni hieno saavutus ensikertalaiselle ja olen tosi tyytyväinen, vaikken päässytkään tällä kertaa valtuustoon.</p>
-                <p<Sain paljon tukea ja apua, sekä lahjoituksia enemmän kuin osasin odottaa, kiitos teille kaikille ♥️</p>
-                <p<Lopultahan kyse ei ole minusta, vaan meidän kaupungin asioista, yhteisestä politiikasta ja tahdosta valita, minkälaisten ihmisten vallan kautta ja mihin täällä rahaa ohjataan.</p>
+                <p>Sain paljon tukea ja apua, sekä lahjoituksia enemmän kuin osasin odottaa, kiitos teille kaikille ♥️</p>
+                <p>Lopultahan kyse ei ole minusta, vaan meidän kaupungin asioista, yhteisestä politiikasta ja tahdosta valita, minkälaisten ihmisten vallan kautta ja mihin täällä rahaa ohjataan.</p>
                 <p>Jos joku muu miettii kannattaako tulevaisuudessa lähteä vaaleihin ehdolle, niin vastaus on kyllä!</p>`,
         introduction: `
          <h2>Kuka olen?</h2>
-                <p>Moi, olen Linda, 41-vuotias paljasjalkainen tamperelainen. Lapsuuteni vietin yksinhuoltajaäitini kanssa kahdestaan Tesomalla, teini-iän Lielahdessa ja nykyisin asun Amurissa. Sukuni tulee Ruskealasta Karjalasta, ja Salon sukua vaikuttaa edelleen myös Nokialla.
+                <p>Moi, olen Linda, 41-vuotias paljasjalkainen tamperelainen. Lapsuuteni vietin yksinhuoltajaäitini kanssa kahdestaan Tesomalla, teini-iän Lielahdessa ja nykyisin asun Amurissa. Sukuni tulee Ruskealasta Karjalasta, ja Salon sukua vaikuttaa edelleen myös Nokialla.</p>
                 <p>Tällä hetkellä työskentelen energia-alalla asiakasneuvojana, ja olen opiskellut Tampereen yliopistossa kansainvälistä politiikkaa, valtio-oppia ja ympäristöpolitiikkaa. Tätä ennen olin töissä mm. Tampere-talossa, ja sitä ennen pitkään Stockmannilla.</p>
                 <p>Eniten innostun kulttuurista ja musiikista, viherkasveista, tietovisoista ja uuden oppimisesta. Luontaista uteliaisuuttani toteutan yhdessä pienen lapseni kanssa; käymme kirjastossa tai uimahallissa, askartelemme ja leikimme legoilla.</p>
                 <p>Olen luonteeltani toimelias ja aikaansaava, mutta joskus suoruudestani johtuen vähän kärkäs. Pidän ongelmanratkaisusta ja tykkään tehdä työni niin hyvin kuin mahdollista. Olen avoin, ja arvostan rehellisyyttä ja suoraselkäistä vastuunkantoa.</p>`,
@@ -45,7 +45,10 @@ const translations = {
         headertext: `<h1>LINDA SALO</h1>
             <p>Left Alliance candidate for municipal elections in Tampere 2025</p>`,
         thankyou: `<h2>Thank you</h2>
-        <p>Thank you for the 157 votes that I got! I think it is a great achievemnt for a first-time candidate and I am satisfied with the results even though I didn't get through this time.</p>`,
+        <p>Thank you all 157 who voted for me! I think it is a great achievement for a first-time candidate and I am satisfied with the results even though I didn't get elected this time.</p>
+        <p>I got a lot of help and support and way more donations than I expected, thank you all ♥️</p>
+        <p>At the end it is not about me, but our common city, politics and the will to choose the people who get to decide how our money is used.</p>
+        <p>If someone else is considering standing for election, the answer is yes!</p>`,
         introduction: `<h2>Who am I?</h2>
         <p>I'm Linda, 41 years old and born and raised in Tampere. I spent my
         childhood with my single mother in Tesoma and my teenage years
