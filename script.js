@@ -3,6 +3,12 @@ const translations = {
 
         headertext: `<h1>LINDA SALO</h1>
             <p>Vasemmistoliiton kuntavaaliehdokas Tampereella 2025</p>`,
+        thankyou:
+        `<h2>Kiitos!</h2>
+                <p>Kiitos kaikki äänestäneet luottamuksesta, sain 157 ääntä! Se on mielestäni hieno saavutus ensikertalaiselle ja olen tosi tyytyväinen, vaikken päässytkään tällä kertaa valtuustoon.</p>
+                <p<Sain paljon tukea ja apua, sekä lahjoituksia enemmän kuin osasin odottaa, kiitos teille kaikille ♥️</p>
+                <p<Lopultahan kyse ei ole minusta, vaan meidän kaupungin asioista, yhteisestä politiikasta ja tahdosta valita, minkälaisten ihmisten vallan kautta ja mihin täällä rahaa ohjataan.</p>
+                <p>Jos joku muu miettii kannattaako tulevaisuudessa lähteä vaaleihin ehdolle, niin vastaus on kyllä!</p>`,
         introduction: `
          <h2>Kuka olen?</h2>
                 <p>Moi, olen Linda, 41-vuotias paljasjalkainen tamperelainen. Lapsuuteni vietin yksinhuoltajaäitini kanssa kahdestaan Tesomalla, teini-iän Lielahdessa ja nykyisin asun Amurissa. Sukuni tulee Ruskealasta Karjalasta, ja Salon sukua vaikuttaa edelleen myös Nokialla.
@@ -38,6 +44,8 @@ const translations = {
     en: {
         headertext: `<h1>LINDA SALO</h1>
             <p>Left Alliance candidate for municipal elections in Tampere 2025</p>`,
+        thankyou: `<h2>Thank you</h2>
+        <p>Thank you for the 157 votes that I got! I think it is a great achievemnt for a first-time candidate and I am satisfied with the results even though I didn't get through this time.</p>`,
         introduction: `<h2>Who am I?</h2>
         <p>I'm Linda, 41 years old and born and raised in Tampere. I spent my
         childhood with my single mother in Tesoma and my teenage years

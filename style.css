@@ -100,7 +100,7 @@ nav ul li a {
     max-width: 70%;
 }
 
-.number {
+/* .number {
     background-color: #FF78C8;
     height: 96px;
     width: 96px;
@@ -117,7 +117,7 @@ nav ul li a {
     font-style: normal;
     color: #3200a0;
     font-size: 46px;
-}
+} */
 
 .wrapper {
     padding: 0 24px 100px;
@@ -141,10 +141,17 @@ nav ul li a {
     overflow: hidden;
 }
 
+.thankyou {
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+}
+
 .introduction {
     padding: 24px
 }
 
+.thankyou,
 .introduction p,
 .justification p,
 .values1 p,
